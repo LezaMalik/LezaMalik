@@ -1,5 +1,5 @@
 
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <hr class="solid">
 
