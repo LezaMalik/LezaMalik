@@ -3,12 +3,7 @@
 
 <hr class="solid">
 
-
 - 🧮 Currently working as an **Open-Source Contributor**
-
-
-
-
 
 - 💬 Ask me about **MERN Stack**
 
@@ -16,11 +11,13 @@
 
 - ✍️ Digital Marketer
  
-
+### 👨‍💻 Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <hr class="solid">
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LezaMalik&theme=discord" alt="LezaMalik" /></a> </p>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=lezamalik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr class="solid">
 
@@ -37,9 +34,9 @@
 <hr class="solid">
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LezaMalik&theme=aura&show_icons=true&locale=en" alt="LezaMalik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LezaMalik&theme=aura" alt="LezaMalik" /></p>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=lezamalik&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lezamalik&theme=radical&hide_border=true)<br/>
 
 <hr class="solid">
 
