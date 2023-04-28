@@ -35,8 +35,11 @@
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=lezamalik&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lezamalik&theme=radical&hide_border=true&show_icons=true&locale=en" alt="lezamalik" /></p><br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lezamalik&theme=radical&hide_border=true)<br/>
+
 
 <hr class="solid">
 
