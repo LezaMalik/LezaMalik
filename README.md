@@ -36,7 +36,7 @@
 
 # 📊GitHub Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lezamalik&theme=radical&hide_border=true&show_icons=true&locale=en" alt="lezamalik" /></p><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lezamalik&theme=radical&hide_border=true&show_icons=true&locale=en" alt="lezamalik" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lezamalik&theme=radical&hide_border=true)<br/>
 
