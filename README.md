@@ -1,5 +1,5 @@
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer - Data Analyst</h3>
 
 <hr class="solid">
 
@@ -10,6 +10,8 @@
 - 📝 Technical Writer
 
 - ✍️ Digital Marketer
+  
+- 📊 Data Enthusiast
  
 ### 👨‍💻 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
