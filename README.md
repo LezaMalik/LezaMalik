@@ -5,8 +5,6 @@
 
 - 🧮 Currently working as an **Open-Source Contributor**
 
-- 💬 Ask me about **MERN Stack**
-
 - 📝 Technical Writer
 
 - ✍️ Digital Marketer
